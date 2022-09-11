@@ -1,0 +1,19 @@
+[package]
+name = "cleasy"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+author = ["Angel Dollface"]
+description= "Making command-line interfaces in Rust easy."
+homepage = "https://github.com/angeldollface/cleasy"
+repository = "https://github.com/angeldollface/cleasy"
+documentation = "https://github.com/angeldollface/cleasy"
+readme = "README.markdown"
+keywords = [
+	"argument",
+	"cli",
+	"arg",
+	"parser",
+]
+categories = ["command-line-interface"]
+exclude = ["/.github"]
